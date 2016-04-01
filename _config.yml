@@ -1,6 +1,6 @@
 name: Irresistible Communications
 favicon: null
-layout_spectrum: 0.99918
+layout_spectrum: 0.01066
 typography_spectrum: 1
 title: IC Zenith Magazine
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.375
   lightness: 0.75
   saturation: 0.75
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0
 purpose: []
