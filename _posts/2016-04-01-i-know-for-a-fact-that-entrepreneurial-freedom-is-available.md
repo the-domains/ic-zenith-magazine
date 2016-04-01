@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I know for a fact, that entrepreneurial freedom is available for everyone, who embraces it and makes room for it in their life. \LI live it, not yet financially free as the fashionable term goes, but as free as a bird, what comes to fulfilling my dreams and goals in business. But before that, there was some work to be done. Its your turn to tune into attitudes and core beliefs you have about working and especially about successfully working."
-datePublished: '2016-04-01T07:36:39.848Z'
-dateModified: '2016-04-01T07:36:14.363Z'
+datePublished: '2016-04-01T07:45:08.893Z'
+dateModified: '2016-04-01T07:36:44.698Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-01-i-know-for-a-fact-that-entrepreneurial-freedom-is-available.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-01-i-know-for-a-fact-that-entrepreneurial-freedom-is-available.md
-published: true
 url: i-know-for-a-fact-that-entrepreneurial-freedom-is-available/index.html
 _type: Article
 
